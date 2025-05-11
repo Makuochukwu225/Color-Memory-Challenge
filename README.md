@@ -1,6 +1,9 @@
 # Color-Memory-Challenge
 ## Step-by-Step Wiring Guide for Arduino Color Memory Game
 
+![My Image](circuit.png)
+
+
 Let me walk you through the process of wiring up this project step-by-step:
 
 ### Step 1: Gather Components
