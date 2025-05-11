@@ -1,4 +1,4 @@
-# Color-Memory-Challenge
+# Color Memory Challenge
 ## Step-by-Step Wiring Guide for Arduino Color Memory Game
 
 ![My Image](circuit.png)
